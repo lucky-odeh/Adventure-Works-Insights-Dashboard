@@ -24,3 +24,9 @@ I was given a **folder of raw csv files** with over 50,000 records spanning the 
 45. ### Outcome:
 Cleaned and structured data, ready for analysis and visualization
 
+## Data Modeling
+Established relationship between key tables: **dimension tables** and the **facts tables** as seen below:
+
+![](data_model.PNG)
+
+
