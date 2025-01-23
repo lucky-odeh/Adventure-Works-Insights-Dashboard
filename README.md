@@ -5,7 +5,7 @@ Adventure Works is a global manufacturing company specializing in the production
 ## Brief
 The management team of the company needs a way to track KPIs (revenue, profit, orders and returns), and compare regional performance, analyze product-level trends and identify high value customers.
 ## Objectives
-The goal of this project is to create an interactive dashboard for the management team to help track key performance indicators. 
+The objective of this project is to create an interactive dashboard for the management team to help track key performance indicators such as revenue, profit, orders, return rate and to compare regional performance 
 ## Key Questions
 1. Which division is the top performer?
 2. Which product type leads in both orders and revenue?
