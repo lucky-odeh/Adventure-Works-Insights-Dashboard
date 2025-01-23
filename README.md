@@ -1,7 +1,7 @@
 # Adventure-Works-Insights-Dashboard
 ---
 ## Company Overview
-Adventure Works is a fictional global manufacturing company specializing in the production and sale of cycling equipment and accessories. With operations spanning Europe, North America, and the Pacific, the company serves a diverse customer base that includes over **10,000** high-value customers.
+Adventure Works is a global manufacturing company specializing in the production and sale of cycling equipment and accessories. With operations spanning Europe, North America, and the Pacific, the company serves a diverse customer base that includes over **10,000** high-value customers.
 ## Brief
 The management team of the company needs a way to track KPIs (revenue, profit, orders and returns), and compare regional performance, analyze product-level trends and identify high value customers.
 ## Objectives
